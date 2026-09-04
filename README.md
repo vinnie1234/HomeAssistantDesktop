@@ -5,8 +5,8 @@ A lightweight system tray desktop app for controlling your Home Assistant instan
 ## Screenshots
 
 <p float="left">
-  <img src="images/Schermafbeelding 2026-09-04 125259.png" width="280" alt="Rooms view" />
-  <img src="images/Schermafbeelding 2026-09-04 125233.png" width="280" alt="Settings view" />
+  <img src="Images/Schermafbeelding 2026-09-04 125259.png" width="280" alt="Rooms view" />
+  <img src="Images/Schermafbeelding 2026-09-04 125233.png" width="280" alt="Settings view" />
 </p>
 
 ## Features
